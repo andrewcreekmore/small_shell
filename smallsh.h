@@ -1,6 +1,6 @@
 // Andrew Creekmore
-// CS 344 - Assignment 3: smallsh
-// Winter '22
+// CS 344 - Operating Systems 
+// Project 3: Small Shell
 
 #define _POSIX_C_SOURCE 200809L
 #include <stdio.h>
