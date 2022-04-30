@@ -2,7 +2,7 @@
 // CS 344 - Assignment 3: smallsh
 // Winter '22
 
-#include "main.h"
+#include "smallsh.h"
 
 
 int main()
